@@ -1,0 +1,12 @@
+﻿  Oscillator4Dlg.cpp
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(516,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(517,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(518,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(519,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(568,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(569,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(570,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\oscila\Oscillator\Oscillator4\Oscillator4Dlg.cpp(571,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Oscillator4.vcxproj -> C:\Users\user\Desktop\oscila\Oscillator\x64\Debug\Oscillator4.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
