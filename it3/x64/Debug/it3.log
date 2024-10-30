@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\it3\function.h(9,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(10,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(11,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(77,74): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(92,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(107,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(108,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(121,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\it3\function.h(152,22): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\user\source\repos\it3\MyForm.h(678,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\it3\MyForm.h(728,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\it3\MyForm.h(819,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\it3\MyForm.h(831,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  it3.vcxproj -> C:\Users\user\source\repos\it3\x64\Debug\it3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

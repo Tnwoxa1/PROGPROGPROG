@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\it3\x64\Debug\it3.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\it3\x64\Debug\it3.MyForm.resources
+C:\Users\user\source\repos\it3\x64\Debug\it3.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\it3\x64\Debug\it3.exe
