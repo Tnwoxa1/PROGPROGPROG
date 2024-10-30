@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  rs.cpp
+C:\Users\user\Desktop\RSA\rs.cpp(64,21): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\RSA\rs.cpp(100,46): warning C4244: =: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\RSA\rs.cpp(208,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\rs.cpp(216,34): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\RSA\rs.cpp(230,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  RSA.cpp
+  RSADlg.cpp
+C:\Users\user\Desktop\RSA\RSADlg.cpp(206,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(219,26): warning C4267: аргумент: преобразование из "size_t" в "UINT"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(228,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(259,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(260,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(268,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(269,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\RSA\RSADlg.cpp(288,11): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+  Создание кода...
+  RSA.vcxproj -> C:\Users\user\Desktop\RSA\x64\Debug\RSA.exe
