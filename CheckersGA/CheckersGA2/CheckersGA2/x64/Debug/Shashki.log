@@ -1,0 +1,74 @@
+﻿  Drawer.cpp
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(73,21): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(73,13): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(74,31): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(74,23): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(77,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(78,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(90,38): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(91,20): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(97,24): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(98,20): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(108,33): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(109,29): warning C4244: =: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(128,11): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(129,13): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(130,13): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(131,11): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(142,14): warning C4244: =: преобразование "_Ty2" в "Gdiplus::REAL", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(143,21): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(144,22): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(145,14): warning C4244: =: преобразование "_Ty1" в "Gdiplus::REAL", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(154,11): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(155,13): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(156,13): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(157,11): warning C4244: =: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(227,23): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(227,18): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(228,30): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(228,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(229,27): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(229,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(230,30): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(230,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(231,27): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(231,20): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(232,30): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(232,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(233,27): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(233,20): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(234,30): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(234,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(235,29): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(235,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(236,30): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(236,20): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(237,24): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(237,19): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(238,31): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(238,21): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(266,21): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(266,13): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(267,31): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(267,23): warning C4244: аргумент: преобразование "double" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(271,13): warning C4244: =: преобразование "LONG" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(272,13): warning C4244: =: преобразование "LONG" в "Gdiplus::REAL", возможна потеря данных
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(276,21): warning C4244: =: преобразование "Gdiplus::REAL" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\Drawer.cpp(277,22): warning C4244: =: преобразование "Gdiplus::REAL" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+  Shashki.vcxproj -> C:\CPP\CheckersGA\CheckersGA2\CheckersGA2\x64\Debug\Shashki.exe
